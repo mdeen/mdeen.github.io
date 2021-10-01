@@ -1,0 +1,51 @@
+:root {
+    /* Warm Grey */
+    --color-warm-grey-000: 32, 25%, 10%;
+    --color-warm-grey-100: 30, 23%, 20%;
+    --color-warm-grey-200: 27, 21%, 25%;
+    --color-warm-grey-300: 31, 19%, 32%;
+    --color-warm-grey-400: 31, 18%, 45%;
+    --color-warm-grey-500: 31, 18%, 58%;
+    --color-warm-grey-600: 29, 21%, 66%;
+    --color-warm-grey-700: 30, 25%, 77%;
+    --color-warm-grey-800: 33, 23%, 87%;
+    --color-warm-grey-900: 30, 33%, 94%;
+    /* Wafer Pink */
+    --color-primary-000: 0, 25%, 10%;
+    --color-primary-100: 0, 23%, 20%;
+    --color-primary-200: 0, 21%, 25%;
+    --color-primary-300: 0, 19%, 32%;
+    --color-primary-400: 0, 18%, 45%;
+    --color-primary-500: 0, 18%, 58%;
+    --color-primary-600: 0, 21%, 66%;
+    --color-primary-700: 0, 25%, 77%;
+    --color-primary-800: 0, 19%, 83%;
+    --color-primary-900: 0, 34%, 97%;
+    /* Burnt Sienna */
+    --color-secondary-000: 351, 64%, 28%;
+    --color-secondary-100: 358, 59%, 37%;
+    --color-secondary-200: 5, 57%, 42%;
+    --color-secondary-300: 12, 54%, 47%;
+    --color-secondary-400: 18, 65%, 54%;
+    --color-secondary-500: 20, 75%, 61%;
+    --color-secondary-600: 24, 77%, 66%;
+    --color-secondary-700: 24, 78%, 74%;
+    --color-secondary-800: 24, 100%, 86%;
+    --color-secondary-900: 25, 100%, 94%;
+    /* Font Weight */
+    --font-weight-100: 100;     /*  Thin    */
+    --font-weight-300: 300;     /*  Light    */
+    --font-weight-400: 400;     /*  Regular    */
+    --font-weight-500: 500;     /*  Medium    */
+    --font-weight-700: 700;     /*  Bold    */
+    --font-weight-900: 900;     /*  Heavy    */
+    /* Height in pixels */
+    --px-height-XXS: 12px;     /*  XXS    */
+    --px-height-XS: 14px;     /*  XS    */
+    --px-height-S: 16px;     /*  S    */
+    --px-height-M: 18px;     /*  M    */
+    --px-height-L: 20px;     /*  L    */
+    --px-height-XL: 24px;     /*  XL    */
+    --px-height-XXL: 32px;     /*  XXL    */
+    --px-height-XXXL: 48px;     /*  XXXL    */
+}
