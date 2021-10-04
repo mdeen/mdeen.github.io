@@ -29,7 +29,7 @@
 
 <style>
     :global(body) {
-        background-image: url("/yosemite-sunset.jpg");
+        /* background-image: url("/yosemite-sunset.jpg"); */
         background-size: cover;
         background-attachment: fixed;
         background-position: center;
@@ -43,8 +43,8 @@
         color: hsl(var(--color-primary-000));
     }
     h1.website-title {
-        padding: var(--px-height-XS);
-        font-weight: var(--font-weight-100);
+        padding: var(--px-height-S);
+        font-weight: var(--font-weight-300);
         font-size: var(--px-height-XXL);
     }
     nav {
@@ -54,13 +54,13 @@
         display: flex;
         flex-grow: 1;
         align-items: center;
-        font-weight: var(--font-weight-300);
+        font-weight: var(--font-weight-400);
         font-size: var(--px-height-M);
     }
     a {
         text-decoration: none;
         color:#474950;
-        padding: var(--px-height-XS);
+        padding: var(--px-height-S);
     }
     a:visited {
         color: hsl(var(--color-primary-000));
